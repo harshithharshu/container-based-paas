@@ -49,7 +49,3 @@ var req = http.request(options, function(res) {
     return res.end();
   }
 }).listen(5678);
-
-
-manu.sarvathra@gmail.com
-8762101220
